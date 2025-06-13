@@ -49,7 +49,7 @@ This project is a **Retrieval-Augmented Generation (RAG)** chatbot that answers 
 ├── artifacts
 ├── data
 ├── logs
-├── research 			   # Jupyter Notebook with local Llama3 Model
+├── research 			   
 ├── src/
 │   └── rag_project/
 │	├── __init__.py
