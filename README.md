@@ -107,6 +107,7 @@ This project is a **Retrieval-Augmented Generation (RAG)** chatbot that answers 
 
 ## 📚 References
 
+- [Ready Tensor Certifications](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 - [Groq API](https://console.groq.com/)
 - [LangChain](https://docs.langchain.com/)
 - [Huggingface](https://huggingface.co/docs)
