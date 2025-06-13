@@ -1,0 +1,17 @@
+numpy
+torch
+transformers
+scipy
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+langchain-groq
+accelerate
+python-dotenv
+spacy
+gradio
+tiktoken
+sentence-transformers
+einops
+-e .
